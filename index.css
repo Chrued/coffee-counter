@@ -1,0 +1,102 @@
+body {
+    background-image: url("https://images.unsplash.com/photo-1596098823457-74e360fcd023?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8Mzh8fGNvZmZlZXxlbnwwfHwwfHw%3D&auto=format&fit=crop");
+    background-size: cover;
+    padding-left: 50px;
+    padding-right: 50px;
+    font-family: 'Walter Turncoat', cursive;
+    
+}
+
+#coffee {
+    
+    display: block;
+    text-align: center;
+         
+    font-weight: bold;  
+    font-size: 30px;
+    color:#CDCAC2;
+    text-shadow: 2px 2px 5px  #482514;  
+    
+    
+}
+
+#count {
+    display: block;
+    text-align: center;
+   
+    font-weight: bold;
+    text-align: center;   
+    font-size: 50px;
+    color:#482514;
+    text-shadow: 2px 2px 8px  #CDCAC2;  
+    
+    
+}
+
+
+
+// colors: #482514, #593A25, #C9AA89, #D3D2D0, #D3CFC9, #A97547, #CDCAC2, #D3D1D0, #291B17, #9C5D2A
+
+
+
+
+//count
+h2 {
+    margin: 50px;
+    font-size: 70px;
+    color: #482514;
+    text-shadow: 2px 2px 5px #593A25; 
+    padding: 50px;
+     width: 500px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.btns {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+
+button {
+    
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: white;
+    font-weight: bold;
+    width: 450px;
+    height:60px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+    font-family: 'Walter Turncoat', cursive;
+    font-size: 20px;
+    text-shadow: 2px 2px 5px  #291B17;
+    opacity:80%;
+}
+
+#increment-btn {
+   
+    background: #482514;
+}
+
+#save-btn {
+   
+    background: #D3D2D0;
+}
+
+p{
+    text-align: center;
+    font-size: 35px;
+    margin-top: 100px;
+    margin-bottom: 50px;
+    margin-left: 25%;
+    margin-right: 25%;
+    color:#D3D2D0;
+    text-shadow: 3px 5px 10px #291B17;
+    
+}
+
+
